@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Fahim</h1>
 <h3 align="center">A Passionate AI Enthusiast & Design Mind: Crafting Experiences.</h3>
 
-<img align="right" alt="coding" width="400" serc="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhfahim&label=Profile%20views&color=0e75b6&style=flat" alt="mhfahim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhfahim" alt="mhfahim" /></a> </p>
